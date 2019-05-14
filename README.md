@@ -1,3 +1,20 @@
+Clean Paper
+===========
+
+Clean Paper is a fork of original famous Paper icon theme designed by Sam Hewitt.
+Clean Paper is supposed to a special use case, so probably you need to use original, not this fork.
+
+## Differencies between the Paper and Clean Paper
+
+Feature | Paper | Clean Paper
+--------|-------|------------
+HiDPI support (@2x) | Yes | No
+Icon sizes | 8, 16, 32, 48, 512 | 8, 16, 48
+Panel icon sizes | 22, 24 | 22
+Icon type | png, svg | svg
+Optimized for | drawing | small file size
+
+
 Paper Icon Theme
 ================
 
